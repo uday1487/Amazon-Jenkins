@@ -19,7 +19,7 @@ post {
         scho 'Pipeline completed successfully'
     }
     failure {
-        echo 'pipeline failed'
+        echo 'pipeline got failed'
     }
 }
     
